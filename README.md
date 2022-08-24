@@ -3,6 +3,7 @@ JS Fender Shop:
 - Javascript
 - Component-based architecture
 - Local Storage 
+- Ajax request
 - CSS 
 - HTML
 
