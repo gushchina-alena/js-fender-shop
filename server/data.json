@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "FENDER SQUIER BULLET STRATOCASTER HT ARCTIC WHITE",
-        "image": "../assets/images/squier-white.jpg",
+        "image": "assets/images/squier-white.jpg",
         "price": 27700
     },
     {
