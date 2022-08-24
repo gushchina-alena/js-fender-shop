@@ -37,8 +37,8 @@ class Cards {
                 <li class="card">
                     <h3 class="card__title">${name}</h3>
                     <img src=${image} class="card__img" />
-                    <p class="card__price">${price}</p>
-                    <button class="card__btn ${activeClass}" onclick="card.onBuyClick(this, '${id}');">${activeText}</button>
+                    <p class="card__price">${parseInt(price).toLocaleString()} р.</p>
+                    <button class="card__btn ${activeClass}" onclick="cards.onBuyClick(this, '${id}');">${activeText}</button>
                 </li>
             `;
         });
@@ -51,5 +51,4 @@ class Cards {
     }
 }
 
-const card = new Cards();
-card.render();
+const cards = new Cards();
