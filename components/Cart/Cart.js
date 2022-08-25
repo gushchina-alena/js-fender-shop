@@ -30,10 +30,10 @@ class Cart {
             <div class="cart">
                 <header class="cart__header">
                     <div class="cart__title">
-                        <img src="../../assets/images/cart.png" />
+                        <img src="assets/images/cart.png" />
                         <h2>Корзина</h2>
                     </div>
-                    <img src="../../assets/images/close.png" class="cart__close" onclick="cart.closeCart()" />
+                    <img src="assets/images/close.png" class="cart__close" onclick="cart.closeCart()" />
                 </header>
                 <div class="cart__body">${cartItems}</div>
                 <footer class="cart__footer">

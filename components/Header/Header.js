@@ -6,10 +6,10 @@ class Header {
     render(count) {
         const header = `
             <header class="header">
-                <img src="../../assets/images/brand.png" class="header__logo" />
+                <img src="assets/images/brand.png" class="header__logo" />
                 <div class="header__counter" onclick="header.openCart();">
                     <p>${count}</p>
-                    <img src="../../assets/images/cart.png" class="header__cart-img" />
+                    <img src="assets/images/cart.png" class="header__cart-img" />
                 </div>
             </header>
         `;
