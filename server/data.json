@@ -8,49 +8,49 @@
     {
         "id": "2",
         "name": "FENDER Player Plus STRAT MN Tequila Sunrise",
-        "image": "../assets/images/player-sunrise.jpg",
+        "image": "assets/images/player-sunrise.jpg",
         "price": 159000
     },
     {
         "id": "3",
         "name": "FENDER PLAYER Stratocaster MN Buttercream",
-        "image": "../assets/images/player-buttercream.jpg",
+        "image": "assets/images/player-buttercream.jpg",
         "price": 116000
     },
     {
         "id": "4",
         "name": "FENDER VINTERA `60s Stratocaster Modified Burgundy Mist Metallic",
-        "image": "../assets/images/vintera-60s-pink.jpg",
+        "image": "assets/images/vintera-60s-pink.jpg",
         "price": 173000
     },
     {
         "id": "5",
         "name": "FENDER VINTERA `50s Stratocaster Modified Daphne Blue",
-        "image": "../assets/images/vintera-50s-blue.jpg",
+        "image": "assets/images/vintera-50s-blue.jpg",
         "price": 182000
     },
     {
         "id": "6",
         "name": "FENDER VINTERA `50s Stratocaster Sea Foam Green",
-        "image": "../assets/images/vintera-50s-green.jpg",
+        "image": "assets/images/vintera-50s-green.jpg",
         "price": 160000
     },
     {
         "id": "7",
         "name": "FENDER PLAYER Stratocaster PF 3-Tone Sunburst",
-        "image": "../assets/images/player-sunburst.jpeg",
+        "image": "assets/images/player-sunburst.jpeg",
         "price": 89000
     },
     {
         "id": "8",
         "name": "FENDER SQUIER Classic Vibe 50s Stratocaster MN White Blonde",
-        "image": "../assets/images/squier-50s-blonde.jpg",
+        "image": "assets/images/squier-50s-blonde.jpg",
         "price": 64000
     },
     {
         "id": "9",
         "name": "FENDER American Performer MUSTANG RW SATIN SONIC BLUE",
-        "image": "../assets/images/mustang-sonic.jpg",
+        "image": "assets/images/mustang-sonic.jpg",
         "price": 218000
     }
 ]

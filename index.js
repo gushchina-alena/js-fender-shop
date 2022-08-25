@@ -1,6 +1,5 @@
 //функция которая рендерит первоначальные данные 
 const render = () => {
-    //получение количества товаров
     const cartIconData = localStorageUtility.getProducts();
 
     header.render(cartIconData.length);
